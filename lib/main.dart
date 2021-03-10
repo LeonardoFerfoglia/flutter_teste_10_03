@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//teste de salvamento do Git
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
